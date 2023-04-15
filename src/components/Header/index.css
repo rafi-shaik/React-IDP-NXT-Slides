@@ -1,0 +1,19 @@
+.logo-container {
+  display: flex;
+  align-items: center;
+  background-color: #dbeafe;
+  padding-left: 25px;
+  height: 70px;
+}
+
+.website-logo {
+  width: 60px;
+  height: 40px;
+}
+
+.website-name {
+  color: #0f172a;
+  font-family: 'Bree Serif';
+  margin-left: 15px;
+  font-weight: 500;
+}
